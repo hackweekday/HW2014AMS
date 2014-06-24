@@ -7,3 +7,9 @@
 [submodule "mozilla-tron"]
 	path = mozilla-tron
 	url = https://github.com/mmalecki/mozilla-tron.git
+[submodule "hitb-suggestions"]
+	path = hitb-suggestions
+	url = https://github.com/paneidos/hitb-suggestions.git
+[submodule "firefoxos-better-homescreen"]
+	path = firefoxos-better-homescreen
+	url = https://github.com/paneidos/firefoxos-better-homescreen.git
