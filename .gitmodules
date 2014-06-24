@@ -1,0 +1,9 @@
+[submodule "HITB-SketchScreen"]
+	path = HITB-SketchScreen
+	url = https://github.com/c3c/HITB-SketchScreen.git
+[submodule "firefox-mirror"]
+	path = firefox-mirror
+	url = https://github.com/mmalecki/firefox-mirror.git
+[submodule "mozilla-tron"]
+	path = mozilla-tron
+	url = https://github.com/mmalecki/mozilla-tron.git
