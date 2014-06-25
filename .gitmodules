@@ -13,3 +13,6 @@
 [submodule "firefoxos-better-homescreen"]
 	path = firefoxos-better-homescreen
 	url = https://github.com/paneidos/firefoxos-better-homescreen.git
+[submodule "HLP-"]
+	path = HLP-
+	url = https://github.com/thijsh/HLP-.git
